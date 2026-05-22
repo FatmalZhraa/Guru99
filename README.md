@@ -48,19 +48,6 @@ The project demonstrates real-world QA activities including requirement analysis
 
 ---
 
-## Repository Structure
-
-```bash
-/TestCases
-/BugReports
-/TestScenarios
-/TestData
-/Documentation
-README.md
-```
-
----
-
 ## Test Artifacts Included
 - Test Plan
 - Test Scenarios
